@@ -1,0 +1,13 @@
+name = "Dartis-Craft - SGCraft 206 AIO Modpack"
+author = "Dartis-Craft"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "147cdcb64addbff8d4cec8a45f10cb896c474a86015fc1647f8ef2fc1b45a840"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
