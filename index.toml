@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "5e07dd43838728fc160ed3fa7f5295818c737eacb78c935484771d0a1eba4b30"
-
-[[files]]
 file = "config/ruins.txt"
 hash = "781439bc709b2553a0dc06a0adde66f1e56990abbfa4501017c14f1a47309650"
 
